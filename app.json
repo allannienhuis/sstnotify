@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: PHP",
+  "description": "hack",
+  "repository": "https://github.com/allannienhuis/sstnotify",
+  "addons": []
+}
